@@ -95,5 +95,5 @@ module.exports = {
     mostrarProductos,
     buscarPorIdProducto,
     eliminarProducto,
-    newProduct
+    newProduct,validarDatos
 };
